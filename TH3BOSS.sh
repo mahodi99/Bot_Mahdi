@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/TH3BOSS
+cd $HOME/Mahodi_Sharif
 
 install() {
      cd tg
@@ -77,7 +77,7 @@ if [ ! -f ./tg/tgcli ]; then
    echo -e "     »»                       We Are Not Alliance                             "
    echo -e "     »»                       We Are Family                                   "
    echo -e "     »»                       We Are Th3Best                             "
-   echo -e "     »»                       @TH3BOSS                                     "
+   echo -e "     »»                       @Mahodi_Sharif                                    "
    echo -e "\033[0;00m"
    echo -e "\e[36m"
    logo_play
